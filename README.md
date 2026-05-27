@@ -1,4 +1,4 @@
-# ✅ To-Do App — Python Flask
+# To-Do App — Python Flask
 
 A clean, responsive To-Do web application built with Python and Flask.
 
@@ -8,18 +8,18 @@ A clean, responsive To-Do web application built with Python and Flask.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ➕ Add new tasks
-- ✅ Mark tasks as Done / Undo
-- 🗑️ Delete individual tasks
-- 🧹 Clear all completed tasks at once
-- 📊 Live stats: Total / Done / Pending count
-- 📱 Responsive design — works on mobile too
+-  Add new tasks
+-  Mark tasks as Done / Undo
+-  Delete individual tasks
+-  Clear all completed tasks at once
+-  Live stats: Total / Done / Pending count
+-  Responsive design — works on mobile too
 
 ---
 
-## 🛠️ How to Run Locally
+##  How to Run Locally
 
 ### Step 1 — Install Python
 Make sure Python 3 is installed. Check with:
@@ -42,19 +42,17 @@ Go to: **http://127.0.0.1:5000**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
-```
+
 todo-app/
 │
 ├── app.py              # Main Flask application (routes, logic)
 └── templates/
     └── index.html      # Frontend (HTML + CSS + Jinja2 template)
-```
 
----
 
-## 📚 Concepts Used
+##  Concepts Used
 
 | Concept | Where Used |
 |---|---|
@@ -68,7 +66,7 @@ todo-app/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Save tasks to a database (SQLite)
 - [ ] User login / multiple users
@@ -77,4 +75,3 @@ todo-app/
 
 ---
 
-*Built as part of a 30-day learning challenge · May 2026*
